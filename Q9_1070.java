@@ -1,5 +1,8 @@
-import java.util.Scanner;
+// Name: Sanchay Sinha
+// Reg_no.: 2241019537
+// PS LINK : https://cses.fi/problemset/task/1070/
 
+import java.util.Scanner;
 public class Q9_1070 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
