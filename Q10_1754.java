@@ -1,3 +1,7 @@
+// Name: Sanchay Sinha
+// Reg_no.: 2241019537
+// PS LINK : https://cses.fi/problemset/task/1754/
+
 import java.util.*;
 public class Q10_1754 {
     public static void main(String[] args) {
